@@ -55,5 +55,3 @@ These notebooks demonstrate my understanding and application of various preproce
 - SelectKBest
 - Custom correlation-based filter function
 
-## 📁 Folder Structure
-
